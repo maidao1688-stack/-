@@ -1,0 +1,16 @@
+{
+  "name": "BRTCoin",
+  "symbol": "BRTC",
+  "description": "BRTCoin is a fun community token on Solana.",
+  "image": "https://raw.githubusercontent.com/maidao1688-stack/important/main/brtcoin.png",
+  "attributes": [
+    { "trait_type": "Category", "value": "Community" },
+    { "trait_type": "Chain", "value": "Solana" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/maidao1688-stack/important/main/brtcoin.png", "type": "image/png" }
+    ],
+    "category": "image"
+  }
+}
