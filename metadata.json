@@ -1,8 +1,8 @@
 {
-  "name": "USDCoin",
-  "symbol": "USDC",
-  "description": "BRTCoin is a fun community token on Solana.",
-  "image": "https://raw.githubusercontent.com/maidao1688-stack/important/main/usdcoin.png",
+  "name": "CPDD",
+  "symbol": "CP",
+  "description": "CPDD is a fun community token on Solana.",
+  "image": "https://raw.githubusercontent.com/maidao1688-stack/important/main/cpdd.png",
   "attributes": [
     { "trait_type": "Category", "value": "Community" },
     { "trait_type": "Chain", "value": "Solana" }
